@@ -29,12 +29,10 @@ ime i lozinku, broj registarskih tablica, i da li želi vlastitu parking karticu
 Ukoliko je uslov za rezervaciju parking mjeta ispunjen, odnosno ako je korisnik registrovan, korisnik odabire parking lokaciju
 koja mu odgovara, i ukoliko ima slobodnih mjesta na istoj, rezerviše svoje parking mjesto. Korisnik odabire ili jednokratni pristup 
 ili mjesečnu/godišnju članarinu. Minimalna rezervacija parking mjesta mora biti ispoštovana i potvrdom rezervacije pristaje 
-na uplaćivanje cijene parking mjesta za odabrano vrijeme. Omogućena je produživanje rezervacije parking mjesta. 
+na uplaćivanje cijene parking mjesta za odabrano vrijeme. Omogućena je produživanje rezervacije parking mjesta koja ce biti obracunta. 
 
 #### ODABIR PLAĆANJA
-Nakon rezervacije mjesta, korisnik odabira da li želi uplaćivanje prediđenog iznosa putem elektronskog plaćanja ili da li želi da koristi
-svoju parking karticu. Parking kartica se može novčano dopuniti osoblju koje to evidentira, ili online i posjeduje određeni limit i 
-odredjene pogodnosti.
+Nakon rezervacije mjesta, korisnik odabira da li želi uplaćivanje predviđenog iznosa putem elektronskog plaćanja ili da li želi da koristi svoju parking karticu. Parking kartica se može novčano dopuniti osoblju koje to evidentira, ili online i posjeduje određeni limit i odredjene pogodnosti.
 
 #### ULAZ/IZLAZ 
 Prilikom dolaska na rezervisano mjesto korisnik može pristupiti parkingu na dva načina. Ukoliko posjeduje svoju parking karticu 
